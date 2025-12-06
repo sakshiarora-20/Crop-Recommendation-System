@@ -1,6 +1,3 @@
-Got it. I’ll adjust the README to mention Streamlit explicitly and remove Flask references.
-
----
 
 # Crop Recommendation System (CRS + XAI)
 
